@@ -1,0 +1,2 @@
+model_checkpoint_path: "dallas_temp_model"
+all_model_checkpoint_paths: "dallas_temp_model"
